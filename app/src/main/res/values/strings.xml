@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BYD YouTube Bridge</string>
+    <string name="channel_name">Bridge status</string>
+    <string name="channel_description">Shows whether the YouTube media bridge is connected.</string>
+</resources>
